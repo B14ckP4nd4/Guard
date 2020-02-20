@@ -6,3 +6,7 @@ CHANGELOG.md export-ignore
 app/** filter=git-crypt diff=git-crypt
 routes/** filter=git-crypt diff=git-crypt
 database/** filter=git-crypt diff=git-crypt
+composer.json filter=git-crypt diff=git-crypt
+composer.lock filter=git-crypt diff=git-crypt
+package.json filter=git-crypt diff=git-crypt
+package-lock.json filter=git-crypt diff=git-crypt
